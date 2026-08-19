@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "semaphore.h": "c",
+        "vector": "cpp",
+        "iosfwd": "cpp",
+        "string": "cpp",
+        "filesystem": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+}
